@@ -33,7 +33,7 @@ Profiling of customers:
 * spent more on wines, fruits, meat, fish, sweets, gold products
 * buying medium : through web catalogue, store
 * actively accepted the offers in all campaigns
-* all age catogories are present
+* all age categories are present
 
 **Cluster 1:**
 * size = 1014
